@@ -1,0 +1,50 @@
+/*general*/
+
+html{
+	height: 100%;
+	width: 100%;
+	
+}
+
+body{
+	height: 100%;
+	width: 100%;
+	background: #EEE;
+	font: 18px Georgia, Times, "Times New Roman", Serif;
+}
+
+#main-content{
+	width: 500px;
+	 padding: 20px ;
+}
+
+h1{
+	font: 30px Arial, "Helvetica Neue", Helvetica, Sans-Serif;
+}
+
+/*menu page*/
+
+ul{
+	
+	margin: 1px;
+	
+}
+
+
+
+form select{
+	margin: 1px;
+	font-size: 14px;
+}
+
+form input[type="submit"]{
+	font-size: 1px;
+	background: white;
+	padding: 6px 12px;
+	border: 1px solid black;
+}
+
+form input[type="submit"]:hover{
+	color: white;
+	background: #FDB912;
+}
